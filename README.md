@@ -1,43 +1,12 @@
 # PUC-SP
 
-puc-ciencia-dados-ia/
-│
-├── 01-semestre/
-│   ├── algoritmos-e-programacao/
-│   ├── matematica/
-│   └── projeto-storytelling-integrado/
-│
-├── 02-semestre/
-│   ├── estrutura-de-dados/
-│   ├── probabilidade-e-estatistica/
-│   └── projeto-integrado/
-│
-├── 03-semestre/
-│   ├── bancos-de-dados-sql-nosql/
-│   ├── engenharia-de-software/
-│   ├── otimizacao-e-simulacao/
-│   └── projeto-integrado/
-│
-├── 04-semestre/
-│   ├── mineracao-de-dados/
-│   ├── empreendedorismo/
-│   ├── orientacao-profissional/
-│   └── redes-sociais-e-marketing/
-│
-├── 05-semestre/
-│   ├── aprendizagem-de-maquina/
-│   ├── governanca-de-algoritmos/
-│   ├── projeto-integrado/
-│   └── sistemas-distribuidos/
-│
-├── 06-semestre/
-│   ├── ciencia-de-dados-1/
-│   ├── inteligencia-artificial-1/
-│   └── tcc-1/
-│
-├── 07-semestre/
-│   ├── ciencia-de-dados-2/
-│   ├── inteligencia-artificial-2/
-│   └── tcc-2/
-│
-└── README.md
+| Semestre | Disciplinas                                                                                            |
+| -------: | ------------------------------------------------------------------------------------------------------ |
+|   **1º** | Algoritmos e Programação<br>Matemática<br>Projeto Storytelling Integrado                               |
+|   **2º** | Estrutura de Dados<br>Probabilidade e Estatística<br>Projeto Integrado                                 |
+|   **3º** | Bancos de Dados (SQL e NoSQL)<br>Engenharia de Software<br>Otimização e Simulação<br>Projeto Integrado |
+|   **4º** | Mineração de Dados<br>Empreendedorismo<br>Orientação Profissional<br>Redes Sociais e Marketing         |
+|   **5º** | Aprendizagem de Máquina<br>Governança de Algoritmos<br>Projeto Integrado<br>Sistemas Distribuídos      |
+|   **6º** | Ciência de Dados 1<br>Inteligência Artificial 1<br>TCC 1                                               |
+|   **7º** | Ciência de Dados 2<br>Inteligência Artificial 2<br>TCC 2                                               |
+

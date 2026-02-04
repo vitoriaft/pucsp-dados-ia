@@ -1,5 +1,9 @@
 # PUC-SP
 
+Este repositório reúne atividades, exercícios, projetos e materiais de estudo desenvolvidos durante o curso de Ciência de Dados e Inteligência Artificial na PUC-SP.
+O conteúdo está organizado por semestre e disciplina, com o objetivo de manter um histórico estruturado do aprendizado e também servir como base para revisões e portfólio acadêmico.
+
+
 | Semestre | Disciplinas                                                                                            |
 | -------: | ------------------------------------------------------------------------------------------------------ |
 |   **1º** | Algoritmos e Programação<br>Matemática<br>Projeto Storytelling Integrado                               |

@@ -2,8 +2,8 @@
 
 Neste semestre foram estudadas as seguintes matérias:
 
-- Introdução à Computação
+- Algoritimos e programação
 - Lógica de Programação
-- Matemática Discreta
+- Projeto - Storytelling
 
 Este diretório contém anotações, exercícios e projetos desenvolvidos ao longo do semestre.
